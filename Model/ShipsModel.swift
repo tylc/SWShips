@@ -7,6 +7,8 @@
 
 import Foundation
 
+//Critical documentation test
+
 struct Ships:Decodable{
     var ships:[Ship]
     
